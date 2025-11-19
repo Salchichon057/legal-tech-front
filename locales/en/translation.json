@@ -1,0 +1,88 @@
+{
+  "app": {
+    "title": "LegalTech Platform",
+    "subtitle": "Manage your legal cases efficiently"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "loginButton": "Sign In",
+    "registerButton": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "loginError": "Invalid credentials",
+    "registerError": "Registration failed"
+  },
+  "dashboard": {
+    "title": "My Cases",
+    "welcomeBack": "Manage your legal cases",
+    "noCases": "No cases yet",
+    "createFirst": "Create your first case to get started",
+    "createCase": "New Case"
+  },
+  "cases": {
+    "title": "Cases",
+    "newCase": "Create New Case",
+    "caseTitle": "Case Title",
+    "titlePlaceholder": "Enter case title",
+    "description": "Description",
+    "descriptionPlaceholder": "Enter case description (optional)",
+    "status": "Status",
+    "createdAt": "Created",
+    "actions": "Actions",
+    "create": "Create Case",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "files": "{{count}} file",
+    "files_other": "{{count}} files"
+  },
+  "status": {
+    "new": "New",
+    "active": "Active",
+    "pending": "Pending",
+    "in_progress": "In Progress",
+    "completed": "Completed",
+    "closed": "Closed",
+    "archived": "Archived"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "back": "Back",
+    "uploading": "Uploading..."
+  },
+  "files": {
+    "title": "Files",
+    "description": "Documents related to this case",
+    "uploadFile": "Upload File",
+    "upload": "Upload",
+    "dragDrop": "Drag and drop file here",
+    "noFiles": "No files uploaded yet",
+    "uploadSuccess": "File uploaded",
+    "fileUploaded": "File has been uploaded successfully",
+    "downloadStarted": "Download started",
+    "deleteSuccess": "File deleted",
+    "fileDeleted": "File has been deleted successfully",
+    "confirmDelete": "Are you sure you want to delete this file?"
+  },
+  "errors": {
+    "loadFiles": "Failed to load files",
+    "uploadFailed": "Upload failed",
+    "downloadFailed": "Download failed",
+    "deleteFailed": "Delete failed",
+    "tryAgain": "Please try again"
+  },
+  "language": {
+    "select": "Select language",
+    "english": "English",
+    "spanish": "Spanish"
+  }
+}

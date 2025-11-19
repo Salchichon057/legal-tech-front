@@ -1,0 +1,88 @@
+{
+  "app": {
+    "title": "Plataforma LegalTech",
+    "subtitle": "Gestiona tus casos legales de forma eficiente"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "name": "Nombre",
+    "loginButton": "Ingresar",
+    "registerButton": "Crear Cuenta",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "dontHaveAccount": "¿No tienes una cuenta?",
+    "signUp": "Regístrate",
+    "loginError": "Credenciales inválidas",
+    "registerError": "Error al registrarse"
+  },
+  "dashboard": {
+    "title": "Mis Casos",
+    "welcomeBack": "Gestiona tus casos legales",
+    "noCases": "No hay casos aún",
+    "createFirst": "Crea tu primer caso para comenzar",
+    "createCase": "Nuevo Caso"
+  },
+  "cases": {
+    "title": "Casos",
+    "newCase": "Crear Nuevo Caso",
+    "caseTitle": "Título del Caso",
+    "titlePlaceholder": "Ingrese el título del caso",
+    "description": "Descripción",
+    "descriptionPlaceholder": "Ingrese la descripción del caso (opcional)",
+    "status": "Estado",
+    "createdAt": "Creado",
+    "actions": "Acciones",
+    "create": "Crear Caso",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "view": "Ver",
+    "files": "{{count}} archivo",
+    "files_other": "{{count}} archivos"
+  },
+  "status": {
+    "new": "Nuevo",
+    "active": "Activo",
+    "pending": "Pendiente",
+    "in_progress": "En Progreso",
+    "completed": "Completado",
+    "closed": "Cerrado",
+    "archived": "Archivado"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "back": "Volver",
+    "uploading": "Subiendo..."
+  },
+  "files": {
+    "title": "Archivos",
+    "description": "Documentos relacionados con este caso",
+    "uploadFile": "Subir Archivo",
+    "upload": "Subir",
+    "dragDrop": "Arrastra y suelta el archivo aquí",
+    "noFiles": "No hay archivos cargados aún",
+    "uploadSuccess": "Archivo subido",
+    "fileUploaded": "El archivo se ha subido exitosamente",
+    "downloadStarted": "Descarga iniciada",
+    "deleteSuccess": "Archivo eliminado",
+    "fileDeleted": "El archivo se ha eliminado exitosamente",
+    "confirmDelete": "¿Estás seguro de que deseas eliminar este archivo?"
+  },
+  "errors": {
+    "loadFiles": "Error al cargar archivos",
+    "uploadFailed": "Error al subir archivo",
+    "downloadFailed": "Error al descargar archivo",
+    "deleteFailed": "Error al eliminar archivo",
+    "tryAgain": "Por favor intenta de nuevo"
+  },
+  "language": {
+    "select": "Seleccionar idioma",
+    "english": "Inglés",
+    "spanish": "Español"
+  }
+}
